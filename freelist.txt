@@ -1,2 +1,0 @@
-vless://a6487cb4-4283-4992-8ea3-cceca107af81@bug.hostname.com:443?path=%2Fwebsocket&security=tls&encryption=none&host=jp1-ws.xvless.xyz&type=ws&sni=jp1-ws.xvless.xyz#sshocean-dthhbfd
-vless://00967e22-54f4-47d7-b1c1-2970717f0533@bug.hostname.com:443?path=%2Fvless&security=tls&encryption=none&host=jp1.v2vless.xyz&sni=jp1.v2vless.xyz&type=ws#sshocean-tysbkio
